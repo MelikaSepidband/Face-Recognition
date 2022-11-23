@@ -1,2 +1,2 @@
 # Face-Recognition
-Face Recognition with CNN
+Face Recognition with Convolutional Neural Network(CNN)
